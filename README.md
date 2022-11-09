@@ -1,6 +1,6 @@
-
-GitHub
+Hi there✋
 ---
+📮 Conctact : faculty1789@gmail.com
 
 ***
 
