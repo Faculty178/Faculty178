@@ -8,7 +8,8 @@ Hi there✋
 
 ![Faculty178's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faculty178&theme=react&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faculty1789)](https://solved.ac/Faculty1789) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=faculty1789&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faculty1789)](https://solved.ac/Faculty1789) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Faculty178)](https://git.io/streak-stats)
 
 
 ---
