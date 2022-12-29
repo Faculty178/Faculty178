@@ -13,7 +13,6 @@ Hello✋
 
 </div>
 
-***
-
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faculty1789)](https://solved.ac/Faculty1789) 
