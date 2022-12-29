@@ -1,6 +1,6 @@
 Hello✋
 ---
-📮 Conctact : faculty1789@gmail.com
+📮 Contact : faculty1789@gmail.com
 
 ***
 
@@ -13,5 +13,6 @@ Hello✋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=faculty1789)](https://solved.ac/Faculty1789) 
 </div>
----
+
+***
 
