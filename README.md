@@ -4,7 +4,7 @@ Hello✋
 
 ***
 
-:star2: : <h2>Tech Stack<h2>
+<h2>:star2: : Tech Stack<h2>
 
 <div align='center'>
 
